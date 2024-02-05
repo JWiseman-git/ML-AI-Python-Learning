@@ -17,7 +17,8 @@ rem Inspect requirements package
 rem (myenv) C:\Users\jorda\Documents\GitHub\ML-AI-Python-Learning>pip freeze requirements.txt
 rem Install all requirements
 rem (myenv) C:\Users\jorda\Documents\GitHub\ML-AI-Python-Learning> pip install -r requirements.txt
-rem Run any scripts 
+rem Run any scripts
+rem (myenv) C:\Users\jorda\Documents\GitHub\ML-AI-Python-Learning> python HelloGen.py
 ```
 #### Activate from Python 
 Should be included at the top of any main scripts used for each project included - easiest way if requirements already downloaded. 
